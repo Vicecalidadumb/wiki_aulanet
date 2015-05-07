@@ -1,0 +1,50 @@
+.page-header {
+    border-bottom: 2px solid #C3D9FF !important;
+}
+
+.navbar-inverse {
+    background-color: #808080 !important;
+    border-color: #6c6b6b !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #FFF !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #FFF !important;
+}
+
+.footer {
+    z-index: 1001 !important;
+    background-color: #d9d9d9 !important;
+    height: 27px !important;
+    font-size: 12px !important;
+}
+
+.container .text-muted {
+    margin: 3px 0 !important;
+}
+
+.blockquote-reverse{
+    margin: 0 0 0 !important;
+    font-size: 14px !important;
+}
+.blockquote-reverse cite{
+    font-weight: bold !important;
+}
+
+.img_document{
+    margin: 10px !important;
+    box-shadow: 2px 2px 5px #999 !important;
+    -webkit-box-shadow: 2px 2px 5px #999 !important;
+    -moz-box-shadow: 2px 2px 5px #999 !important;
+}
+
+.sidebar{
+    border-left: 8px solid #808080 !important;
+}
+
+.navbar-fixed-top {
+  border: 1px solid #808080 !important;
+}
