@@ -3,8 +3,8 @@
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="bootstrap/js/jquery.min.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="<?php echo $url; ?>bootstrap/js/jquery.min.js"></script>
+<script src="<?php echo $url; ?>bootstrap/js/bootstrap.min.js"></script>
 </body>
 <footer class="footer">
     <div class="container">

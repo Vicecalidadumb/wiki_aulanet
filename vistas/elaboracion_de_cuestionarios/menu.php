@@ -1,4 +1,4 @@
-<div class="col-sm-3 col-md-2 sidebar">
+<div class="col-sm-3 col-md-2 col-xs-2 sidebar">
     <ul class="nav nav-sidebar">
         <li <?php echo ($page['file'] == 'ingreso.html') ? 'class="active"' : ''; ?>>
             <a href="index.php?folder=elaboracion_de_cuestionarios&page=ingreso">Ingreso al Sistema de Evaluación</a>

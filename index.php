@@ -1,6 +1,7 @@
 <?php
 include('funciones/principal.php');
 $page = get_body($_GET);
+$url = '';
 
 
 include('plantilla/head.php');

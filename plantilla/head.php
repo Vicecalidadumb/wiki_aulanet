@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="shortcut icon" href="aulanet/images/quiz.png">
+        
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,14 +10,12 @@
         <link rel="icon" href="">
         <title>Evaluaciones UMB. | Documentación en Linea</title>
         <!-- Bootstrap core CSS -->
-        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <!-- Aulanet CSS -->
-        <link href="aulanet/css/bootstrap.min.css" rel="stylesheet">
+        <link href="<?php echo $url; ?>bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom styles for this template -->
-        <link href="bootstrap/css/dashboard.css" rel="stylesheet">
-        <link href="bootstrap/css/sticky-footer-navbar.css" rel="stylesheet">
+        <link href="<?php echo $url; ?>bootstrap/css/dashboard.css" rel="stylesheet">
+        <link href="<?php echo $url; ?>bootstrap/css/sticky-footer-navbar.css" rel="stylesheet">
         <!-- Aulanet CSS -->
-        <link href="aulanet/css/style.css" rel="stylesheet">        
+        <link href="<?php echo $url; ?>aulanet/css/style.css" rel="stylesheet">        
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

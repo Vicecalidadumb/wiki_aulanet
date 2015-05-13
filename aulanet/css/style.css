@@ -39,6 +39,7 @@
     box-shadow: 2px 2px 5px #999 !important;
     -webkit-box-shadow: 2px 2px 5px #999 !important;
     -moz-box-shadow: 2px 2px 5px #999 !important;
+    max-width: 100% !important;
 }
 
 .sidebar{

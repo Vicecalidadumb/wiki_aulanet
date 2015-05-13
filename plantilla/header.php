@@ -13,6 +13,9 @@
 
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="documentos/guia.pdf" title="Descargar en Formato PDF" target="_blank"><span class="glyphicon glyphicon-save"></span></a>
+                    </li>
                     <li <?php echo ($page['folder'] == 'construccion_de_preguntas') ? 'class="active"' : ''; ?>>
                         <a href="index.php?folder=construccion_de_preguntas&page=ingreso">Construccion de Preguntas</a>
                     </li>
